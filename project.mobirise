@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "JL Film & Foto",
-    "currentPage": "page3.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -56,7 +56,7 @@
     "siteUrl": false,
     "gdpr": false,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "cookiesAlert": false,
     "witsec-mailform-to": "jllzugang@gmx.de",
     "witsec-mailform-to-alt": "",
